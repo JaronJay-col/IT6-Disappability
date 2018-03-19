@@ -1,0 +1,32 @@
+body{
+	background: url(img/bck.jpg);
+	background-size: cover;
+	font-family: sans-serif;
+}
+.container{
+  float:left;
+  width:500px;
+  height:250px;
+  background:grey;
+  color:white;
+  text-align:center;
+  margin:20px;
+  
+}
+.container img{
+  float:left; 
+  display:block;
+  
+}
+.b1{
+  font-size:3px;
+  color:white;
+  font-weight:5px;
+}
+.content {
+ margin:200px;
+background:url(img/jaron.jpg)
+color:white;
+width:100%;
+height:100%;
+}
